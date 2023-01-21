@@ -1,4 +1,4 @@
-![I am Data Science Aspirant.](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/326236754_1189064905134597_4144842106727333948_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFNwIyHOtycIZMnww5Z6BlkMB_SiWKof1gwH9KJYqh_WBeYyOvx5fcyk_DVExs4E3OpZBHuiIfm5SzGnm-YXHZE&_nc_ohc=pnZhf-_7GCQAX96cwc-&_nc_ht=scontent.fdac24-2.fna&oh=00_AfAH0XjNyxIWuC60RygqUU9_eIuTrr29RbGk3oK6t3EQzA&oe=63D16623)
+![I am Data Science Aspirant.](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/326522134_499097365669775_3408481653189191116_n.png?stp=dst-png_p180x540&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG9W-xVfPRqo40YHIxnj6SazkELCb0OMkrOQQsJvQ4yShjS8P60a46Qqbb1o_lDLWV2EPMK8IoDtQWpA4yylAY2&_nc_ohc=OmzlsAt3vvMAX_QfKQm&_nc_ht=scontent.fdac24-1.fna&oh=00_AfB7pjmFyenQ7aK_8uxf1GHtEjhQOiIdMmlrTqW-VPy9bQ&oe=63D09997)
 
 ### Hi there 👋, my name is Anisur
 #### I am Data Science Aspirant.
