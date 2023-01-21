@@ -1,10 +1,13 @@
 ![I am Data Science Aspirant.](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/326522134_499097365669775_3408481653189191116_n.png?stp=dst-png_p180x540&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG9W-xVfPRqo40YHIxnj6SazkELCb0OMkrOQQsJvQ4yShjS8P60a46Qqbb1o_lDLWV2EPMK8IoDtQWpA4yylAY2&_nc_ohc=OmzlsAt3vvMAX_QfKQm&_nc_ht=scontent.fdac24-1.fna&oh=00_AfB7pjmFyenQ7aK_8uxf1GHtEjhQOiIdMmlrTqW-VPy9bQ&oe=63D09997)
 
+
 ### Hi there 👋, my name is Anisur
 #### I am Data Science Aspirant.
 
+I am Md Anisur Rahman from Bangladesh. A Data Science Aspirant | Quality Professional, Mobile Manufacturing Industry - Xiaomi | Ex_Nokia | Ex_Vivo. 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I have a  total 4-year Experience in Data Entry and manufacturing plants. I am working as an Engineer at Xiaomi. Responsibility is MQE & OBA. I was work as  In Process Quality Control(IPQC) Incharge at Vibrant Software bd limited(Union group) & PQC Shift incharge at Vivo Bangladesh Factory. I am skilled in smart and Bar phone manufacturing processes also the R&D and Repair(ORC & TRC) process & SMT process, root cause Analysis & improvement, Manpower Management, Project Management, and Product management. I love to acquire knowledge. 
+I want to transition to the Data Science field & become an expert in the Data Science industry. 
 
 Skills: Python /  Web Scraping / Assembly language / HTML / etc.
 
