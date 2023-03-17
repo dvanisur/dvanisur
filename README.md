@@ -1,4 +1,4 @@
-![I am Data Science Aspirant.] https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/326522134_499097365669775_3408481653189191116_n.png?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG9W-xVfPRqo40YHIxnj6SazkELCb0OMkrOQQsJvQ4yShjS8P60a46Qqbb1o_lDLWV2EPMK8IoDtQWpA4yylAY2&_nc_ohc=moR_1GNUOB0AX9DQmeo&_nc_ht=scontent.fdac80-1.fna&oh=00_AfDcnPNjg-71zOX0QgXhvgBXa3uBhPHLt6bwU9DHT3xb0w&oe=6419C4D7
+![I am Data Science Aspirant.] https://www.facebook.com/photo/?fbid=234510395587798&set=a.100171165688389
 
 
 ### Hi there 👋, my name is Anisur
