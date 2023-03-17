@@ -1,5 +1,4 @@
-![I am Data Science Aspirant.] https://www.facebook.com/photo/?fbid=234510395587798&set=a.100171165688389
-
+![I am Data Science Aspirant.] 
 
 ### Hi there 👋, my name is Anisur
 #### I am Data Science Aspirant.
