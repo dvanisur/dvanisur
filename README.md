@@ -1,4 +1,4 @@
-![I am Data Science Aspirant.] 
+
 
 ### Hi there 👋, my name is Anisur
 #### I am Data Science Aspirant.
