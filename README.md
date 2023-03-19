@@ -15,7 +15,7 @@ Skills: Python /  Web Scraping / Assembly language / HTML / etc.
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Data science 
 - 💬 Ask me about Python & Web scraping 
-- 📫 How to reach me: https://www.linkedin.com/in/md-anisur-rahman-87659b17b/ 
+- 📫 How to reach me: https://www.linkedin.com/in/dvanisur/ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dsanisur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-anisur-rahman-87659b17b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dsanisur/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21056466/md-anisur-rahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/dsanisur/)  
