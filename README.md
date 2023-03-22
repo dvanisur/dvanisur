@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, my name is Anisur
+### Hi there 👋, I'm Md Anisur Rahman
 #### I am Data Science Aspirant.
 
 I am Md Anisur Rahman from Bangladesh. A Data Science Aspirant | Quality Professional, Mobile Manufacturing Industry - Xiaomi | Ex_Nokia | Ex_Vivo. 
