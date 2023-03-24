@@ -3,6 +3,7 @@
 ### Hi there 👋, I'm Md Anisur Rahman
 #### I am Data Science Aspirant.
 
+
 I am Md Anisur Rahman from Bangladesh. A Data Science Aspirant | Quality Professional, Mobile Manufacturing Industry - Xiaomi | Ex_Nokia | Ex_Vivo. 
 
 I have a  total 4-year Experience in Data Entry and manufacturing plants. I am working as an Engineer at Xiaomi. Responsibility is MQE & OBA. I was work as  In Process Quality Control(IPQC) Incharge at Vibrant Software bd limited(Union group) & PQC Shift incharge at Vivo Bangladesh Factory. I am skilled in smart and Bar phone manufacturing processes also the R&D and Repair(ORC & TRC) process & SMT process, root cause Analysis & improvement, Manpower Management, Project Management, and Product management. I love to acquire knowledge. 
