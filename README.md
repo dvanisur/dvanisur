@@ -1,20 +1,20 @@
 
 ### Hi there 👋, I'm Md Anisur Rahman
-#### I am Data Science Aspirant.
+#### I am a Full Stack Web Developer Aspirant.
 
 
-I am Md Anisur Rahman from Bangladesh. A Data Science Aspirant | Quality Professional, Mobile Manufacturing Industry - Xiaomi | Ex_Nokia | Ex_Vivo. 
+I am Md Anisur Rahman from Bangladesh. A Full Stack Web Developer | Quality Professional, Mobile Manufacturing Industry - Xiaomi | Ex_Nokia | Ex_Vivo. 
 
-I have a  total 4-year Experience in Data Entry and manufacturing plants. I am working as an Engineer at Xiaomi. Responsibility is MQE & OBA. I was work as  In Process Quality Control(IPQC) Incharge at Vibrant Software bd limited(Union group) & PQC Shift incharge at Vivo Bangladesh Factory. I am skilled in smart and Bar phone manufacturing processes also the R&D and Repair(ORC & TRC) process & SMT process, root cause Analysis & improvement, Manpower Management, Project Management, and Product management. I love to acquire knowledge. 
+I have a  total 4-year Experience in Data Entry and manufacturing plants and 1 year of experience in web development with Python-Django from Bootcamp Full Stack Python Django course. I am working as an Engineer at Xiaomi. Responsibility is MQE & OBA. I worked as  In Process Quality Control(IPQC) Incharge at Vibrant Software bd limited(Union group) & PQC Shift incharge at Vivo Bangladesh Factory. I am skilled in smart and Bar phone manufacturing processes also the R&D and Repair(ORC & TRC) process & SMT process, root cause Analysis & improvement, Manpower Management, Project Management, and Product management. I love to acquire knowledge. 
 I want to transition to the Data Science field & become an expert in the Data Science industry
 
-Skills: Python /  Web Scraping / Assembly language / HTML / etc.
+Skills: Python / Django/ HTML/ CSS/JavaScript (basic)/ Tailwindcss/ Bootstrap/ SQL/ Git and GitHub/ Docker/  Web Scraping / Assembly language etc.
 
 - 🔭 I’m currently working on Web Scraping using python 
-- 🌱 I’m currently learning Data science 
-- 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with Data science 
-- 💬 Ask me about Python & Web scraping 
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on GitHub 
+- 🤔 I’m looking for help with Web Development 
+- 💬 Ask me about Python & Web Development with Django 
 - 📫 How to reach me: https://www.linkedin.com/in/dvanisur/ 
 
 
